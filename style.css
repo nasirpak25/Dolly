@@ -1,0 +1,142 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-lists{
+    text-decoration: none;
+    color: black;
+}
+ul li{
+    text-decoration: none;
+    color: black;
+}
+.header{
+    background-image: url(Assets/asset\ 25.jpeg);
+    background-repeat: no-repeat ;
+    background-size:cover ;
+}
+.header-card{
+    /* border: solid red; */
+    background-color:white ;
+    border-radius: 12px;
+    width: 40%;
+
+}
+.header-card h1{
+    font-weight: bold;
+    font-size: 40px;
+}
+.header-card h2{
+    /* font-weight: bold; */
+    font-size: 18px;
+    margin-top: 20px;
+}
+.btn-primary{
+    border-radius: 12px;
+    border: none;
+}
+.section-card{
+    /* background-color: aliceblue; */
+    padding: 30px;
+    border: solid white px;
+    border-radius: 15px;
+    border-top: red 5px solid;
+    
+}
+.section-card h6{
+    color: red;
+    margin-top: 20px;
+}
+.section-card h5{
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.card-img{
+text-align: center;
+
+}
+.card-btn{
+background-color: #EAEFFF;
+border: solid #EAEFFF;
+color: #1A54E5;
+padding: 2px;
+border-radius: 10px;
+}
+.delivery-text h2{
+font-size: 36px;
+}
+.delivery-text p{
+    font-size: 18.4px;
+}
+.delivery-img{
+    border-radius: 8px;
+}
+.delivery-ul li{
+    list-style: none;
+}
+.delivery-business-left span {
+    color: #80A9F8;
+}
+.delivery-business-left{
+    color: white;
+}
+.delivery-business-left{
+    border-radius: 10px;
+   background-color: #011631;
+}
+.news-link{
+    text-align: right;
+}
+#retail-p-1{
+    font-size: 14px;
+    /* margin-top:25px; */
+}
+#retail-p-2{
+    font-size: 16px;
+}
+.totalretail-text{
+    border-radius: 5px;
+    border: solid black 1px;
+
+}
+.totalretail-img{
+    border-radius: 5px;
+    border: solid black 1px;
+}
+.usa-network-text{
+    border-radius: 5px;
+    border: solid black 1px;
+}
+#insider-p-1{
+    font-size: 14px;
+    /* margin-top:25px; */
+}
+.keep-in-touch{
+    background-color:#FCF9F6 ;
+}
+.btn-btn{
+    border-radius: none;
+}
+.footer{
+    background-color: #EDF0F7;
+}
+.footer ul li{
+    list-style: none;
+    text-align: start;
+}
+.footer ul li a{
+    text-decoration: none;
+}
+.footer-h5{
+    /* text-align: center; */
+}
+.footer-img{
+    text-align: end;
+}
+.footer-Lrow a{
+    text-decoration: none;
+    margin-left: 20px;
+}
